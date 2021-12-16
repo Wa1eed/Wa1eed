@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wa1eed
-- 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ... ML
-- 💞️ I’m looking to collaborate on ... Ai & ML
+- 👀 I’m interested in ...Python, ML, WebDev.
+- 🌱 I’m currently learning ... Django, APIs, Vue.Js.
+- 💞️ I’m looking to collaborate on ... Development , ML.
 - 📫 How to reach me ... here 
 
 <!---
